@@ -1,7 +1,5 @@
 # urltotitle
 
-# autotextchanger
-
 # Usage
 
 This Package use for auto change the unlimited text,Its support both Android and iOS,you can easily use,using cama type long text,you can customize the text change duration and Animated the text.
